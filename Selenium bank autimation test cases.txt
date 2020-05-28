@@ -1,0 +1,43 @@
+1 Verify login
+	open url 	
+	Enter valid userid 
+	Enter valid user password 
+	Click loging
+
+	Loging should be successfull. Home page sohuld open
+
+2. Verify add new customer
+	Open rul
+	Enter valid Userid
+	Enter valid password
+	Click login button
+	Click on new customer link
+	provide cusotmer details
+	Clcik on submit buttomn
+
+	Customer should added and customer id should be generate
+
+3.Verify edit customer
+	opern url
+	Enter valid Userid
+	Enter valid password
+	Click login button
+	Click edit customer link
+	Provide existing customer id
+	Click on submit button
+	Edit detals of the customer
+
+	Customer destails be edited
+
+4.Verfiy delete customer
+	opern url
+	Enter valid Userid
+	Enter valid password
+	Click login button
+	Click delete customer link
+	Provide existing customer id
+	click on delte	
+
+	Cuistomer should be deleted.
+
+http://demo.guru99.com/V4/

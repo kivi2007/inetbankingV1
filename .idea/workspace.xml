@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="402d944d-3e70-4a22-87bd-92c73a42d128" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zkd6BQwlsKNDQ6wAIGHVASHnqQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.inetbanking.testCases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Kivindu Prageeth/IdeaProjects/inetBankingV1/testng.xml">
+    <configuration name="C:/Users/Kivindu Prageeth/IdeaProjects/inetBankingV1/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="inetBankingV1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_LoginTest_001.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="inetBankingV1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.inetbanking.testCases.TC_LoginTest_001" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Kivindu Prageeth/IdeaProjects/inetBankingV1/testng.xml" />
+        <item itemvalue="TestNG.TC_LoginTest_001.loginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="402d944d-3e70-4a22-87bd-92c73a42d128" name="Default Changelist" comment="" />
+      <created>1585386847949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585386847949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1755" y="0" width="596" height="728" key="#C:/Users/Kivindu_Prageeth/IdeaProjects/inetBankingV1/testng.xml" timestamp="1586105747222">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1755" y="0" width="596" height="728" key="#C:/Users/Kivindu_Prageeth/IdeaProjects/inetBankingV1/testng.xml/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1586105747222" />
+    <state x="1638" y="23" key="#Project_Structure" timestamp="1585386955481">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1638" y="23" key="#Project_Structure/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585386955481" />
+    <state x="1755" y="0" width="596" height="728" key="#TC_LoginTest_001.loginTest" timestamp="1585401798349">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1755" y="0" width="596" height="728" key="#TC_LoginTest_001.loginTest/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585401798349" />
+    <state x="1777" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585399766274">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1777" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585399766274" />
+    <state x="1842" y="224" width="410" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585399769151">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1842" y="224" width="410" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585399769151" />
+    <state x="1801" y="67" key="#xdebugger.evaluate" timestamp="1585467216004">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1801" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585467216004" />
+    <state width="1323" height="277" key="GridCell.Tab.0.bottom" timestamp="1590500574763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1317" height="277" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1590486616208" />
+    <state width="1323" height="277" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590500574763" />
+    <state width="1323" height="277" key="GridCell.Tab.0.center" timestamp="1590500574763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1317" height="277" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1590486616208" />
+    <state width="1323" height="277" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590500574763" />
+    <state width="1323" height="277" key="GridCell.Tab.0.left" timestamp="1590500574763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1317" height="277" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1590486616208" />
+    <state width="1323" height="277" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590500574763" />
+    <state width="1323" height="277" key="GridCell.Tab.0.right" timestamp="1590500574763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1317" height="277" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1590486616208" />
+    <state width="1323" height="277" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590500574763" />
+    <state width="1317" height="223" key="GridCell.Tab.1.bottom" timestamp="1585497588106">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585497588106" />
+    <state width="1317" height="223" key="GridCell.Tab.1.center" timestamp="1585497588106">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585497588106" />
+    <state width="1317" height="223" key="GridCell.Tab.1.left" timestamp="1585497588106">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585497588106" />
+    <state width="1317" height="223" key="GridCell.Tab.1.right" timestamp="1585497588106">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585497588106" />
+    <state x="1547" y="7" key="SettingsEditor" timestamp="1585402886091">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1547" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585402886091" />
+    <state x="377" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590678161538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="377" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1590678161538" />
+    <state x="1741" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1590481613355" />
+    <state x="377" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590413407223" />
+    <state x="1670" y="0" width="607" height="728" key="find.popup" timestamp="1590489128905">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1670" y="0" width="607" height="728" key="find.popup/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1590489128905" />
+    <state x="1709" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585393144176">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1709" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1585393144176" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/Reporting.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebDriver.class</url>
+          <line>712</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,58 @@
+https://github.com/pavanoltraining/inetbankingV1/blob/master/log4j.properties
+
+URL: https://demo.guru99.com/V4/
+UN:mngr252136
+PS:gUbUhyz
+
+STAGES:
+-----------
+1.Implementaion.
+2.Execution
+3.Maintance
+
+Implementaion.
+---------------
+Creat Maven project
+Update pom.xml
+Create Page objects
+Creat basic test case
+Add logs to test case
+Read common values from properties file
+Run test case desored browser
+Add extent report
+Create data driven test case
+Adding new test case
+
+Execution 
+-----------
+Run test case with maven pom.xml
+Run tes case thorgh maven cli command line
+Run test cases using run.bat
+Run test case using jenkins using bat file
+
+Maintenance
+--------------
+Create repostitory in github
+Commoit the project code in local repository
+Push the project code to GITHUB remote repository form local git repostiory
+
+-------------------------------------------------------------
+
+log4j
+---------------
+log4j.jar
+log4j.properties
+
+Read common values from properties file
+------------------------------
+need config.properties file
+need to create a class Readconfigfile to read them in utilty folder
+
+Add extent report
+-----------------------
+jars
+extendt-config.xml
+lestener class > (reporting.java) utility file
+add entry in testng xml file
+
+

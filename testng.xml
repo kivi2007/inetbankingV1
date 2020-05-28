@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.inetbanking.utilities.Reporting"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Kivindu Prageeth/IdeaProjects/inetBankingV1">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+<!--            <class name="com.inetbanking.testCases.TC_LoginTest_001">-->
+<!--                <methods>-->
+<!--                    <include name="loginTest"/>-->
+<!--        </methods>-->
+<!--        </class>-->
+<!--            <class name="com.inetbanking.testCases.TC_LoginTestDDT_002">-->
+<!--                <methods>-->
+<!--                    <include name="loginDDT"/>-->
+<!--                </methods>-->
+<!--            </class>  -->
+            <class name="com.inetbanking.testCases.TC_AddCustomerTest_003">
+                <methods>
+                    <include name="addNewCustomer"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
+
